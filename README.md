@@ -19,8 +19,6 @@
   <img align="center" alt="fausantosdev HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="fausantosdev CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="fausantosdev Bootstrap" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
-<div align="center"><br> 
   <img align="center" alt="fausantosdev MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="fausantosdev PostgresSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>  
