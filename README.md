@@ -2,12 +2,20 @@
 - 👋 Hi, I’m @SMN947
 - 🌱 I’m currently learning data-mining with python and also trying to develop for Android devices with java and Kotlin
 
-<h2>Some stats from Github</h2>
+<h2>Some stats</h2>
 <div align="center">
+  <img height="70em" src="https://tryhackme-badges.s3.amazonaws.com/SMN947.png" alt="TryHackMe">
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SMN947&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMN947&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+ 
+ <div align="center">
   
+</div>
+
+
+
 <h2>My Current Skills</h2>
   
 <div align="center"><br>
