@@ -1,6 +1,12 @@
 
-- 👋 Hi, I’m @SMN947
-- 🌱 I’m currently learning data-mining with python and also trying to develop for Android devices with java and Kotlin
+ Hi, I’m Simon Bolivar aka @SMN947, a Full-Stack developer with 3+ years working with web applications using Angular, nodejs, MSSQL and REST services among others. I love to learn new technologies that allow me to grow as a professional.
+
+I have knowledge in agile, Git, Python, Php and Java for Android.
+
+If you are intrested in my profile, contact me at betum98@gmail.com.
+
+
+Wanna know more about me? go to <a href="https://smn947.com.co">my web site</a> or take look to my <a href="https://www.linkedin.com/in/smn947/?locale=en_US">LinkedIn profile</a>
 
 <h2>Some stats</h2>
 <div align="center">
@@ -44,10 +50,3 @@
      <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> 
   </a>
 </div>
-<p>
-  Wanna know more about me? go to <a href="https://smn947.com.co">my web site</a>
-</p>
-
-
-
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
