@@ -1,5 +1,5 @@
 
- Hi, I’m Simon Bolivar aka @SMN947, a Full-Stack developer with 3+ years working with web applications using Angular, nodejs, MSSQL and REST services among others. I love to learn new technologies that allow me to grow as a professional.
+ Hi, I’m Simon Bolivar aka @SMN947, a Full-Stack developer with 5+ years working with web applications using Angular, nodejs, MSSQL and REST services among others. I love to learn new technologies that allow me to grow as a professional.
 
 I have knowledge in agile, Git, Python, Php and Java for Android.
 
