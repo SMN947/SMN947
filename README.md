@@ -46,7 +46,7 @@ Wanna know more about me? Take look to my <a href="https://www.linkedin.com/in/s
   <a href="https://smn947.com.co">
      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> 
   </a>
-  <a href="https://www.patreon.com/join/smn947/checkout?rid=8071475">
+  <a href="https://www.patreon.com/SMN947">
      <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> 
   </a>
 </div>
