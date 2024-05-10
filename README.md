@@ -6,7 +6,7 @@ I have knowledge in agile, Git, Python, Php and Java for Android.
 If you are intrested in my profile, contact me at betum98@gmail.com.
 
 
-Wanna know more about me? go to <a href="https://smn947.com.co">my web site</a> or take look to my <a href="https://www.linkedin.com/in/smn947/?locale=en_US">LinkedIn profile</a>
+Wanna know more about me? Take look to my <a href="https://www.linkedin.com/in/smn947/?locale=en_US">LinkedIn profile</a>
 
 <h2>Some stats</h2>
 <div align="center">
